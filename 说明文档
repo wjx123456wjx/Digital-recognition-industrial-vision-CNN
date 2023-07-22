@@ -1,0 +1,16 @@
+data：下载的MNIST数据集
+gxipy：下载的关于相机的库
+image_archive:单位数字的图片
+numbers_image:多位数字的图片
+record_image:相机拍的图片和储存位置
+
+GxAcquireSoftTrigger.py ：大恒相机拍照程序
+
+image_preprocess：图片预处理
+LeNET_training：模型网络搭建、数据集下载、模型训练、模型测试
+number_ocr.py：调用模型进行预测
+number_ocr.ui：绘制的ui前端界面（Qt格式）
+number_ocr.pth1：训练好的模型
+number_ocrui4.py：ui界面的前端界面
+number_socket_serv3.py：ui界面的后端程序（服务端）
+socket_cli3.py：模拟机器人的客户端
