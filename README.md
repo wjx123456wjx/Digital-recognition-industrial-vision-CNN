@@ -1,2 +1,3 @@
-# Digital-recognition-industrial-vision-CNN
+#数字识别工业视觉CNN
 基于深度学习的数字识别在工业中的应用
+作者
